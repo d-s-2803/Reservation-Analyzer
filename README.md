@@ -13,7 +13,7 @@ This Java program analyzes reservation data from a text file and provides releva
    ```bash
    java -version
 
-2. **Verify Java Version**  
+2. **Compile the Code**  
    Make sure Java 17 or higher is installed. Check your version using:
    ```bash
    javac ReservationAnalyzer.java
