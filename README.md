@@ -1,7 +1,5 @@
 # Reservation Analyzer
 
-This Java program analyzes reservation data from a text file and provides relevant insights such as reservation statistics, dates, and room usage.
-
 ## Requirements
 
 - Java 17 or higher
