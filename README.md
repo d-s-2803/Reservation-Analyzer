@@ -14,7 +14,7 @@ This Java program analyzes reservation data from a text file and provides releva
    java -version
 
 2. **Compile the Code**  
-   Make sure Java 17 or higher is installed. Check your version using:
+   Navigate to the directory containing ReservationAnalyzer.java and compile it using:
    ```bash
    javac ReservationAnalyzer.java
 
